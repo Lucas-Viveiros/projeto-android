@@ -73,10 +73,12 @@ main {
 
 main h1 {
     font-weight: normal;
+    font-family: var(--fonte-android);
 }
 
 main h2 {
     font-weight: normal;
+    font-family: var(--fonte-android);
 }
 
 main p {
